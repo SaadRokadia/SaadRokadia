@@ -26,4 +26,3 @@ I'm a Software Engineer based in Mumbai. I have a passion for building web appli
 - [Netlix-clone](https://github.com/SaadRokadia/Netlix-clone):Created a Netflix Clone using React JS, HTML, and CSS, with Firebase as the database. The application enables users to discover and instantly watch their favorite movies/series, featuring components like Header, Watch Screen, and Categories Bar.
 - [Car-Rental-in-PHP](https://github.com/SaadRokadia/Car-Rental-in-PHP): Created a 24-hour Car Rental Service using PHP and MySQL, providing users with a seamless platform to rent cars. The system includes components for efficient navigation and database management.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saadrokadia.saadrokadia)
