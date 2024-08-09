@@ -4,7 +4,7 @@
 I'm a Software Engineer based in Mumbai. I have a passion for building web applications, exploring machine learning, etc. I enjoy learning new technologies and applying them to solve real-world problems.
 
 - 🌱 I’m currently learning Devops, Python & Javascript
-- 💬 Ask me about CODING & TRAVELLING/ADVENTURING
+- 💬 Ask me about CODING
 - 📫 How to reach me: rokadiasaad@gmail.com
 
 ## 🛠️ Technologies & Tools
